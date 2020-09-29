@@ -1,0 +1,3 @@
+$(function(){
+	consle.log("YES");
+});
